@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **nikulkumar730@gmail.com**
 
-- ⚡ Fun fact **MERN developers can turn coffee into code faster than you can say 'npm install'!**
+- ⚡ Fun fact **MERN developers can turn coffee into
+- code faster than you can say 'npm install'!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
