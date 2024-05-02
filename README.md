@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Any one in MERN**
 
-- 🤝 I’m looking for help with **fULL STACK DEVELOPER**
+- 🤝 I’m looking for help with **FULL STACK DEVELOPER**
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
-- 📫 How to reach me **https://github.com/nikulkumar730**
+- 📫 How to reach me **nikulkumar730@gmail.com**
 
 - ⚡ Fun fact **MERN developers can turn coffee into code faster than you can say 'npm install'!**
 
