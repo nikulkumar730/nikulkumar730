@@ -1,11 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Nikul kumar</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikulkumar730" alt="nikulkumar730" /></a> </p>
-
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Any one in MERN**
+- 👯 I’m looking to collaborate on **ANY ON IN MERN**
 
 - 🤝 I’m looking for help with **FULL STACK DEVELOPER**
 
@@ -13,8 +12,7 @@
 
 - 📫 How to reach me **nikulkumar730@gmail.com**
 
-- ⚡ Fun fact **MERN developers can turn coffee into
-     code faster than you can say 'npm install'!**
+- ⚡ Fun fact **"MERN: Where code meets caffeine!☕💻"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
