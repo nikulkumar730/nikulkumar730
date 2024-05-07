@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **ANY ON IN MERN**
+- 👯 I’m looking to collaborate on **ANY ONE IN MERN**
 
 - 🤝 I’m looking for help with **FULL STACK DEVELOPER**
 
