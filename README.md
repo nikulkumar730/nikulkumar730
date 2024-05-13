@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=nikulkumar730&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikulkumar730&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikulkumar730&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<img src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?t=st=1715597194~exp=1715600794~hmac=89a095ad7a0cedb4888d571b54ec71b42c7b8397b2ce89797b85062e38c87d08&w=360" width="512px"/>
+<img src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?t=st=1715597194~exp=1715600794~hmac=89a095ad7a0cedb4888d571b54ec71b42c7b8397b2ce89797b85062e38c87d08&w=360" width="512px" margin-left="50px"/>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
