@@ -24,11 +24,7 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=nikulkumar730&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?t=st=1715597194~exp=1715600794~hmac=89a095ad7a0cedb4888d571b54ec71b42c7b8397b2ce89797b85062e38c87d08&w=360" width="512px" margin-left="50px"/>
+
